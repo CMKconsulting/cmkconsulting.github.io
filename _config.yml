@@ -1,18 +1,15 @@
 # Site settings
 title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+description: 'Marc Nylen Peace, CMKConsulting'
+url: 'http://www.cmkconsulting.se'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Marc Nylen Peace'
+  email: marc@cmkconsulting.se
+  linkedin_username:  marcpeace
 
 defaults:
   -
