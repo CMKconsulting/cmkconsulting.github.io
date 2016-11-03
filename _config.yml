@@ -3,7 +3,7 @@ title: Marc Nylen Peace, CMKConsulting
 description: 'Marc Nylen Peace, CMKConsulting'
 url: 'http://www.cmkconsulting.se'
 baseurl: '/cmkconsulting.github.io/'
-baseurlcv: 'cv.html'
+baseurlcv: '/cmkconsulting.github.io/cv.html'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
